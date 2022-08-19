@@ -49,7 +49,7 @@ def union(lst1,lst2):
             lst3.append(val)
     return lst3
 
-#<------------------------------------------------------------------------------------------->
+
 
 # Function for finding difference between two sets (A-B) , all elements from A which is not present in B
 
